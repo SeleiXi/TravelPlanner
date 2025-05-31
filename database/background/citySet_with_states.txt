@@ -1,0 +1,72 @@
+New York	New York
+Albany	New York
+Buffalo	New York
+Rochester	New York
+Syracuse	New York
+Yonkers	New York
+Los Angeles	California
+San Francisco	California
+San Diego	California
+Sacramento	California
+Fresno	California
+Oakland	California
+Chicago	Illinois
+Springfield	Illinois
+Rockford	Illinois
+Peoria	Illinois
+Joliet	Illinois
+Naperville	Illinois
+Miami	Florida
+Jacksonville	Florida
+Tampa	Florida
+Orlando	Florida
+St. Petersburg	Florida
+Tallahassee	Florida
+Boston	Massachusetts
+Worcester	Massachusetts
+Springfield	Massachusetts
+Cambridge	Massachusetts
+Lowell	Massachusetts
+Brockton	Massachusetts
+Houston	Texas
+Dallas	Texas
+Austin	Texas
+San Antonio	Texas
+Fort Worth	Texas
+El Paso	Texas
+Atlanta	Georgia
+Columbus	Georgia
+Augusta	Georgia
+Savannah	Georgia
+Athens	Georgia
+Macon	Georgia
+Seattle	Washington
+Spokane	Washington
+Tacoma	Washington
+Vancouver	Washington
+Bellevue	Washington
+Everett	Washington
+Phoenix	Arizona
+Tucson	Arizona
+Mesa	Arizona
+Chandler	Arizona
+Glendale	Arizona
+Scottsdale	Arizona
+Denver	Colorado
+Colorado Springs	Colorado
+Aurora	Colorado
+Fort Collins	Colorado
+Lakewood	Colorado
+Thornton	Colorado
+Detroit	Michigan
+Grand Rapids	Michigan
+Warren	Michigan
+Sterling Heights	Michigan
+Lansing	Michigan
+Ann Arbor	Michigan
+Las Vegas	Nevada
+Henderson	Nevada
+Reno	Nevada
+North Las Vegas	Nevada
+Sparks	Nevada
+Carson City	Nevada 

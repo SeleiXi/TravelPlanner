@@ -1,0 +1,33 @@
+origin,destination,duration,distance
+New York,Los Angeles,5 hours 30 mins,2,445 km
+New York,Chicago,2 hours 45 mins,790 km
+New York,Miami,3 hours 15 mins,1,090 km
+New York,Boston,1 hour 15 mins,190 km
+Los Angeles,New York,5 hours 30 mins,2,445 km
+Los Angeles,Chicago,4 hours 20 mins,1,745 km
+Los Angeles,Miami,5 hours 45 mins,2,255 km
+Los Angeles,Boston,6 hours 10 mins,2,611 km
+Chicago,New York,2 hours 45 mins,790 km
+Chicago,Los Angeles,4 hours 20 mins,1,745 km
+Chicago,Miami,3 hours 30 mins,1,197 km
+Chicago,Boston,2 hours 55 mins,851 km
+Miami,New York,3 hours 15 mins,1,090 km
+Miami,Los Angeles,5 hours 45 mins,2,255 km
+Miami,Chicago,3 hours 30 mins,1,197 km
+Miami,Boston,3 hours 25 mins,1,131 km
+Boston,New York,1 hour 15 mins,190 km
+Boston,Los Angeles,6 hours 10 mins,2,611 km
+Boston,Chicago,2 hours 55 mins,851 km
+Boston,Miami,3 hours 25 mins,1,131 km
+Manhattan,Brooklyn,45 mins,15 km
+Manhattan,Queens,1 hour 10 mins,25 km
+Brooklyn,Manhattan,45 mins,15 km
+Queens,Manhattan,1 hour 10 mins,25 km
+Downtown Chicago,O'Hare Airport,1 hour 20 mins,30 km
+Downtown Chicago,Midway Airport,50 mins,20 km
+South Beach,Downtown Miami,25 mins,8 km
+Downtown Miami,Miami Airport,35 mins,12 km
+Hollywood,Downtown LA,40 mins,18 km
+Downtown LA,LAX Airport,45 mins,25 km
+Boston,Cambridge,20 mins,5 km
+Cambridge,Boston,20 mins,5 km 

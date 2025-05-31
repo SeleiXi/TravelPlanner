@@ -1,0 +1,41 @@
+Name,Latitude,Longitude,Address,Phone,Website,City
+Statue of Liberty,40.6892,-74.0445,Liberty Island,"(212) 363-3200",https://www.nps.gov/stli/,New York
+Empire State Building,40.7484,-73.9857,20 W 34th St,"(212) 736-3100",https://www.esbnyc.com/,New York
+Central Park,40.7829,-73.9654,New York NY 10024,"(212) 310-6600",https://www.centralparknyc.org/,New York
+Times Square,40.7580,-73.9855,Times Square,"(212) 768-1560",https://www.timessquarenyc.org/,New York
+9/11 Memorial,40.7115,-74.0134,180 Greenwich St,"(212) 312-8800",https://www.911memorial.org/,New York
+Brooklyn Bridge,40.7061,-73.9969,Brooklyn Bridge,"(311) 311-3112",https://www.nyc.gov/,New York
+High Line,40.7480,-74.0048,New York NY 10011,"(212) 500-6035",https://www.thehighline.org/,New York
+Metropolitan Museum,40.7794,-73.9632,1000 5th Ave,"(212) 535-7710",https://www.metmuseum.org/,New York
+Millennium Park,41.8826,-87.6226,201 E Randolph St,"(312) 742-1168",https://www.chicago.gov/,Chicago
+Navy Pier,41.8919,-87.6051,600 E Grand Ave,"(312) 595-7437",https://navypier.org/,Chicago
+Art Institute of Chicago,41.8796,-87.6237,111 S Michigan Ave,"(312) 443-3600",https://www.artic.edu/,Chicago
+Willis Tower,41.8789,-87.6359,233 S Wacker Dr,"(312) 875-9447",https://www.willistower.com/,Chicago
+Lincoln Park Zoo,41.9212,-87.6339,2001 N Clark St,"(312) 742-2000",https://www.lpzoo.org/,Chicago
+Grant Park,41.8755,-87.6244,337 E Randolph St,"(312) 742-3918",https://www.chicagoparkdistrict.com/,Chicago
+Shedd Aquarium,41.8676,-87.6140,1200 S Lake Shore Dr,"(312) 939-2438",https://www.sheddaquarium.org/,Chicago
+Buckingham Fountain,41.8758,-87.6189,301 S Columbus Dr,"(312) 742-7529",https://www.chicagoparkdistrict.com/,Chicago
+South Beach,25.7907,-80.1300,Miami Beach FL 33139,"(305) 673-7714",https://www.miamibeachfl.gov/,Miami
+Art Deco District,25.7804,-80.1332,1001 Ocean Dr,"(305) 672-2014",https://www.mdpl.org/,Miami
+Vizcaya Museum,25.7443,-80.2106,3251 S Miami Ave,"(305) 250-9133",https://vizcaya.org/,Miami
+Wynwood Walls,25.8011,-80.1992,2520 NW 2nd Ave,"(305) 531-4411",https://www.thewynwoodwalls.com/,Miami
+Bayfront Park,25.7753,-80.1866,301 Biscayne Blvd,"(305) 358-7550",https://www.bayfrontparkmiami.com/,Miami
+Miami Seaquarium,25.7326,-80.1648,4400 Rickenbacker Cswy,"(305) 361-5705",https://miamiseaquarium.com/,Miami
+Little Havana,25.7654,-80.2184,1442 SW 8th St,"(305) 643-5500",https://www.littlehavanachamber.com/,Miami
+Everglades National Park,25.2866,-80.8987,40001 State Road 9336,"(305) 242-7700",https://www.nps.gov/ever/,Miami
+Hollywood Walk of Fame,34.1022,-118.3412,6801 Hollywood Blvd,"(323) 469-8311",https://walkoffame.com/,Los Angeles
+Griffith Observatory,34.1184,-118.3004,2800 E Observatory Rd,"(213) 473-0800",https://griffithobservatory.org/,Los Angeles
+Santa Monica Pier,34.0086,-118.4987,200 Santa Monica Pier,"(310) 458-8900",https://santamonicapier.org/,Los Angeles
+Getty Center,34.0780,-118.4740,1200 Getty Center Dr,"(310) 440-7300",https://www.getty.edu/,Los Angeles
+Venice Beach,33.9850,-118.4695,Venice CA 90291,"(310) 392-4687",https://www.venicebeach.com/,Los Angeles
+Rodeo Drive,34.0673,-118.3984,Rodeo Dr Beverly Hills,"(310) 248-1000",https://www.rodeodrive-bh.com/,Los Angeles
+Disneyland,33.8121,-117.9190,1313 Disneyland Dr,"(714) 781-4636",https://disneyland.disney.go.com/,Los Angeles
+Universal Studios,34.1381,-118.3534,100 Universal City Plaza,"(800) 864-8377",https://www.universalstudios.com/,Los Angeles
+Freedom Trail,42.3601,-71.0589,Boston MA 02108,"(617) 357-8300",https://www.thefreedomtrail.org/,Boston
+USS Constitution,42.3736,-71.0565,Building 22 Charlestown,"(617) 426-1812",https://ussconstitutionmuseum.org/,Boston
+Fenway Park,42.3467,-71.0972,4 Yawkey Way,"(617) 267-9440",https://www.mlb.com/redsox/,Boston
+Harvard University,42.3770,-71.1167,Cambridge MA 02138,"(617) 495-1000",https://www.harvard.edu/,Boston
+MIT,42.3601,-71.0942,77 Massachusetts Ave,"(617) 253-1000",https://web.mit.edu/,Boston
+Boston Tea Party Ships,42.3524,-71.0522,306 Congress St,"(866) 955-0008",https://www.bostonteapartyship.com/,Boston
+Boston Common,42.3551,-71.0656,139 Tremont St,"(617) 635-4505",https://www.boston.gov/,Boston
+Quincy Market,42.3601,-71.0545,206 S Market St,"(617) 523-1300",https://www.faneuilhallmarketplace.com/,Boston 
