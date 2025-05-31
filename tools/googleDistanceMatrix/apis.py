@@ -13,7 +13,12 @@ import numpy as np
 class GoogleDistanceMatrix:
     def __init__(self, subscription_key: str="") -> None:
         self.gplaces_api_key: str = subscription_key
-        self.data =  pd.read_csv('../database/googleDistanceMatrix/distance.csv')
+        # Get the absolute path relative to this file's location
+        current_dir = os.path.dirname(os.path.abspath(__file__))
+        # Go up to TravelPlanner root, then to database/googleDistanceMatrix
+        distance_path = os.path.join(current_dir, '..', '..', 'database', 'googleDistanceMatrix', 'distance.csv')
+        distance_path = os.path.abspath(distance_path)
+        self.data = pd.read_csv(distance_path)
         print("GoogleDistanceMatrix loaded.")
 
     def run(self, origin, destination, mode='driving'):
