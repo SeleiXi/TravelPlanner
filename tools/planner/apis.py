@@ -1,6 +1,9 @@
 import sys
 import os
 sys.path.append(os.path.abspath(os.path.join(os.getcwd(), "..")))
+# Add current directory to path to find env module
+current_dir = os.path.dirname(os.path.abspath(__file__))
+sys.path.append(current_dir)
 from langchain.prompts import PromptTemplate
 from agents.prompts import planner_agent_prompt, cot_planner_agent_prompt, react_planner_agent_prompt,reflect_prompt,react_reflect_planner_agent_prompt, REFLECTION_HEADER
 from langchain.chat_models import ChatOpenAI
