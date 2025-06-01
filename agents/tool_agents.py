@@ -582,9 +582,22 @@ def validate_date_format(date_str: str) -> bool:
     return True
 
 def validate_city_format(city_str: str, city_set: list) -> bool:
-    if city_str not in city_set:
-        raise ValueError(f"{city_str} is not valid city in {str(city_set)}.")
-    return True
+
+    if city_str in city_set:
+        return True
+    
+    city_str_lower = city_str.lower().strip()
+    for city_entry in city_set:
+        # handle with 'city\tstate' format, extract city name part
+        if '\t' in city_entry:
+            city_name = city_entry.split('\t')[0].strip().lower()
+        else:
+            city_name = city_entry.strip().lower()
+        
+        if city_str_lower == city_name:
+            return True
+    
+    raise ValueError(f"{city_str} is not valid city in {str(city_set)}.")
 
 def parse_args_string(s: str) -> dict:
     # Split the string by commas
