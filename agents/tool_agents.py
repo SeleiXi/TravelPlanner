@@ -32,7 +32,8 @@ import os
 
 OPENAI_API_KEY = os.environ['OPENAI_API_KEY']
 GOOGLE_API_KEY = os.environ['GOOGLE_API_KEY']
-
+MODEL_BASE_URL = os.environ['MODEL_BASE_URL']
+MODEL_API_KEY = os.environ['MODEL_API_KEY']
 
 pd.options.display.max_info_columns = 200
 
@@ -92,11 +93,19 @@ class ReactAgent:
         if 'gpt-3.5' in react_llm_name:
             stop_list = ['\n']
             self.max_token_length = 15000
-            self.llm = ChatOpenAI(temperature=1,
-                     max_tokens=256,
-                     model_name=react_llm_name,
-                     openai_api_key=OPENAI_API_KEY,
-                     model_kwargs={"stop": stop_list})
+            if MODEL_BASE_URL:
+                self.llm = ChatOpenAI(temperature=1,
+                        max_tokens=256,
+                        model_name=react_llm_name,
+                        openai_api_key=MODEL_API_KEY,
+                        model_kwargs={"stop": stop_list},
+                        base_url=MODEL_BASE_URL)
+            else:
+                self.llm = ChatOpenAI(temperature=1,
+                        max_tokens=256,
+                        model_name=react_llm_name,
+                        openai_api_key=OPENAI_API_KEY,
+                        model_kwargs={"stop": stop_list})
             
         elif 'gpt-4' in react_llm_name:
             stop_list = ['\n']
