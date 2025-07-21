@@ -1,0 +1,213 @@
+Abilene
+Akron
+Alamosa
+Alpena
+Amarillo
+Appleton
+Asheville
+Atlanta
+Atlantic City
+Augusta
+Austin
+Bakersfield
+Baltimore
+Baton Rouge
+Belleville
+Bemidji
+Billings
+Binghamton
+Boise
+Boston
+Bozeman
+Brainerd
+Branson
+Brownsville
+Buffalo
+Burbank
+Cape Girardeau
+Cedar City
+Charleston
+Charlotte
+Charlotte Amalie
+Charlottesville
+Chattanooga
+Cheyenne
+Chicago
+Cincinnati
+Cleveland
+Colorado Springs
+Columbus
+Corpus Christi
+Dallas
+Dayton
+Daytona Beach
+Decatur
+Del Rio
+Denver
+Des Moines
+Detroit
+Dubuque
+Duluth
+Durango
+Eau Claire
+El Paso
+Erie
+Escanaba
+Eugene
+Evansville
+Everett
+Fayetteville
+Flagstaff
+Fort Dodge
+Fort Lauderdale
+Fort Myers
+Fort Wayne
+Fresno
+Gainesville
+Grand Forks
+Grand Junction
+Grand Rapids
+Great Falls
+Green Bay
+Greer
+Gunnison
+Gustavus
+Harrisburg
+Helena
+Hibbing
+Hilton Head
+Honolulu
+Houston
+Huntsville
+Hyannis
+Idaho Falls
+Indianapolis
+International Falls
+Islip
+Jacksonville
+Johnstown
+Kahului
+Kalamazoo
+Kansas City
+Ketchikan
+Killeen
+Knoxville
+Kona
+La Crosse
+Lake Charles
+Lansing
+Laramie
+Laredo
+Las Vegas
+Latrobe
+Lewisburg
+Lexington
+Long Beach
+Longview
+Los Angeles
+Louisville
+Lubbock
+Lynchburg
+Madison
+Manchester
+Marquette
+Martha's Vineyard
+Medford
+Memphis
+Miami
+Milwaukee
+Minneapolis
+Minot
+Missoula
+Moab
+Moline
+Monterey
+Montgomery
+Mosinee
+Muskegon
+Myrtle Beach
+Nantucket
+Nashville
+New Orleans
+New York
+Newark
+Niagara Falls
+Norfolk
+North Platte
+Oakland
+Ogden
+Ogdensburg
+Oklahoma City
+Omaha
+Orlando
+Owensboro
+Paducah
+Palm Springs
+Panama City
+Pellston
+Pensacola
+Peoria
+Petersburg
+Philadelphia
+Phoenix
+Pittsburgh
+Plattsburgh
+Pocatello
+Ponce
+Portland
+Prescott
+Provo
+Punta Gorda
+Redding
+Reno
+Rhinelander
+Richmond
+Roanoke
+Rochester
+Rockford
+Sacramento
+Salt Lake City
+San Angelo
+San Antonio
+San Diego
+San Francisco
+San Jose
+San Juan
+San Luis Obispo
+Santa Ana
+Santa Barbara
+Santa Rosa
+Savannah
+Seattle
+Shreveport
+Sioux City
+South Bend
+Spokane
+St. Cloud
+St. Louis
+State College
+Staunton
+Stockton
+Syracuse
+Tallahassee
+Tampa
+Texarkana
+Toledo
+Traverse City
+Trenton
+Tucson
+Tulsa
+Twin Falls
+Valdosta
+Vernal
+Waco
+Walla Walla
+Washington
+Watertown
+Wenatchee
+White Plains
+Wichita Falls
+Williston
+Wilmington
+Yakima
+Yuma
