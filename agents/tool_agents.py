@@ -110,11 +110,19 @@ class ReactAgent:
         elif 'gpt-4' in react_llm_name:
             stop_list = ['\n']
             self.max_token_length = 30000
-            self.llm = ChatOpenAI(temperature=0,
-                     max_tokens=256,
-                     model_name=react_llm_name,
-                     openai_api_key=OPENAI_API_KEY,
-                     model_kwargs={"stop": stop_list})
+            if MODEL_BASE_URL:
+                self.llm = ChatOpenAI(temperature=0,
+                        max_tokens=256,
+                        model_name=react_llm_name,
+                        openai_api_key=MODEL_API_KEY,
+                        model_kwargs={"stop": stop_list},
+                        base_url=MODEL_BASE_URL)
+            else:
+                self.llm = ChatOpenAI(temperature=0,
+                        max_tokens=256,
+                        model_name=react_llm_name,
+                        openai_api_key=OPENAI_API_KEY,
+                        model_kwargs={"stop": stop_list})
             
         elif react_llm_name in ['mistral-7B-32K']:
             stop_list = ['\n']
