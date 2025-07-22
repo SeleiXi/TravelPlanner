@@ -376,7 +376,7 @@ def main():
         write_distance_matrix_csv(category_data["GoogleDistanceMatrix"], output_file)
     
     # Create cities list file
-    cities_file = os.path.join(args.output_dir, "background", "citySet_with_states.txt")
+    cities_file = os.path.join(args.output_dir, "background", "citySet.txt")
     with open(cities_file, 'w', encoding='utf-8') as f:
         for city in cities:
             f.write(f"{city}\n")
